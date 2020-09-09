@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JohnLouisRumingan/dnd-generator/static/css/main.5f361e03.chunk.css",
+    "main.js": "/JohnLouisRumingan/dnd-generator/static/js/main.856dc6f0.chunk.js",
+    "main.js.map": "/JohnLouisRumingan/dnd-generator/static/js/main.856dc6f0.chunk.js.map",
+    "runtime-main.js": "/JohnLouisRumingan/dnd-generator/static/js/runtime-main.6ec84181.js",
+    "runtime-main.js.map": "/JohnLouisRumingan/dnd-generator/static/js/runtime-main.6ec84181.js.map",
+    "static/js/2.9d699265.chunk.js": "/JohnLouisRumingan/dnd-generator/static/js/2.9d699265.chunk.js",
+    "static/js/2.9d699265.chunk.js.map": "/JohnLouisRumingan/dnd-generator/static/js/2.9d699265.chunk.js.map",
+    "index.html": "/JohnLouisRumingan/dnd-generator/index.html",
+    "precache-manifest.ff40d5446ddad8df28db80ad8d0996c1.js": "/JohnLouisRumingan/dnd-generator/precache-manifest.ff40d5446ddad8df28db80ad8d0996c1.js",
+    "service-worker.js": "/JohnLouisRumingan/dnd-generator/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/JohnLouisRumingan/dnd-generator/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9d699265.chunk.js.LICENSE.txt": "/JohnLouisRumingan/dnd-generator/static/js/2.9d699265.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/JohnLouisRumingan/dnd-generator/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ec84181.js",
+    "static/js/2.9d699265.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.856dc6f0.chunk.js"
+  ]
+}
