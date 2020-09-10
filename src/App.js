@@ -8,6 +8,13 @@ function App() {
       </header>
       <main>
         D&D generator.
+
+        <div className='icons'>
+          <a href="#" onClick={(e) => {
+            e.preventDefault();
+            window.open("https://github.com/JohnLouisRumingan/dnd-generator");
+          }}>Github Repository</a>
+        </div>
       </main>
     </div>
   );
